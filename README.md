@@ -2,6 +2,6 @@
 
 # Iconic Sans
 
-Comic Sans finally got its own iconset. 13 icons for now.
+Why would you use Wingdings, when you can have something as _beautiful_ as comic sans AND in svg format ?
 
-Please directly use the svgs , in the `/icons` folder for now.
+SVGs are in the `icons` folder.
